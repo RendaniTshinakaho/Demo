@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using BB.Infrastructure.Receiver;
+﻿using BB.Infrastructure.Receiver;
 using NUnit.Framework;
 using BB.Infrastructure.Sender;
 
